@@ -80,8 +80,7 @@ function App() {
   const renderResult = () => {
     return <Result />;
   }
-
-  console.log('jj', counter,questionId);
+  
   return (
     <div className="App">
       <h1>React Quiz</h1>
